@@ -2,7 +2,7 @@
 - 👀 I’m interested in crossfit, medidation and creative <b>FRONT END DEVELOPMENT</b>
 - 🌱 I’m currently learning react.js and next.js
 - 💞️ I’m looking to collaborate on magic
-- 📫 How to reach me [www.waggadash.com/kontakt](https://www.waggadash.com/kontakt)
+- 📫 How to reach me [www.matthias-schreiber.at](https://www.matthias-schreiber.at/)
 
 <!---
 matzeschreiber/matzeschreiber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
